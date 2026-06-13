@@ -2,6 +2,7 @@
 
 ## 1. Aleyda Solis
 - Platform: YouTube (Crawling Mondays) + LinkedIn
+- Website/blogs: https://www.aleydasolis.com/en/ai-search/ai-search-prompt-library/
 - Link: https://www.youtube.com/@CrawlingMondays
 - LinkedIn: https://www.linkedin.com/in/aleyda/
 - Why chosen: Weekly practical SEO+AI workflow videos, balances traditional SEO with AI search (GEO/AEO)
