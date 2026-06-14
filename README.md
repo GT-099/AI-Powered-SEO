@@ -208,15 +208,6 @@ research/
 ├── cyrus-shepard/
 
 └── jason-barnard/
-## How Content Was Collected
-- **YouTube transcripts**: fetched using `youtube-transcript-api` Python library
-  via `fetch_transcripts.py` script in the root of this repo
-- **LinkedIn posts**: manually collected from each expert's LinkedIn profile,
-  formatted into markdown
-- **Articles and newsletters**: fetched and summarized from public URLs,
-  organized by author in `/research/other/`
-- **Reposts were excluded**: only original content authored by each expert
-  was collected
 
 ## Key Themes Across the Research
 1. **AI Overviews are reducing organic CTR** — Ryan Law (58% CTR drop),
