@@ -115,9 +115,9 @@ and detailed rationale for each expert.
 - Chima Mmeje: 1 video (Feb 2026, Moz Whiteboard Friday)
 - Cyrus Shepard: 2 videos (June 2026)
 
-### LinkedIn Posts (45 posts total)
+### LinkedIn Posts (47 posts total)
 - Aleyda Solis: 3 posts
-- Mike King: 2 posts
+- Mike King: 4 posts
 - Kevin Indig: 5 posts
 - Lily Ray: 5 posts
 - Garrett Sussman: 5 posts
