@@ -51,6 +51,7 @@
   implications with strong data backing. Active in May-June 2026.
 - Content collected: 5 LinkedIn posts
 - Verified on: 2026-06-13
+- Note: Primarily publishes on LinkedIn — no standalone blog or newsletter collected.
 
 ## 5. Garrett Sussman
 - Platform: LinkedIn + iPullRank Blog

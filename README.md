@@ -139,6 +139,19 @@ and detailed rationale for each expert.
 - Jason Barnard: Kalicube website overview + 12 Strategy Sandbox articles
   (May-June 2026)
 
+## How Content Was Collected
+
+- **YouTube transcripts**: collected using the `youtube-transcript-api` Python
+  library via a custom `fetch_transcripts.py` script, run through Claude Code.
+  The script fetches transcripts by video ID and saves each as a structured
+  markdown file with title, URL, author, and date metadata.
+- **LinkedIn posts**: manually collected from each expert's public LinkedIn
+  profile (LinkedIn has no free public API). Raw post text, URLs, and dates
+  were formatted into markdown files using Claude Code.
+- **Articles and newsletters**: fetched from public URLs and summarized into
+  structured markdown files organized by author in `/research/other/`.
+- **Reposts excluded**: only original content authored by each expert was
+  collected — reposts without substantial added commentary were skipped.
 ## Repository Structure
 research/
 
@@ -228,3 +241,19 @@ research/
 
 ## Status
 ✅ Collection complete — all 10 experts fully documented.
+
+## How This Research Supports a Playbook
+
+The collected material is strong enough to support a full AI-powered SEO content
+production playbook. Specifically:
+
+- **Content production workflow**: Ryan Law's Claude Code system (23 skill files,
+  6-12 minute article generation) provides a replicable technical blueprint
+- **Citation strategy**: Cyrus Shepard's 23 AI citation factors + Ross Simmonds'
+  Reddit/off-site data provide the targeting framework
+- **Measurement**: Jason Barnard's Funnel Query Pathway + Kevin Indig's
+  intent compression research provide the measurement methodology
+- **Risk management**: Lily Ray's 220-site study + Garrett Sussman's AI Mode
+  clickstream data provide the guardrails against common failure patterns
+- **Brand positioning**: Jason Barnard's CFP (Claim-Frame-Prove) and Chima
+  Mmeje's entity cluster frameworks provide the content structure methodology
