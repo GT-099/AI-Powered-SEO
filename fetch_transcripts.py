@@ -3,24 +3,18 @@ import os
 import re
 
 videos = [
-     {
-        "author": "ross-simmonds",
-        "video_id": "axTH6nKDUY4",
-        "title": "Keynote Speaker Demo Reel - Content, SEO and AI That Drive Pipeline",
-        "published_date": "2026-04-15"
-    },
-    {
-        "author": "ross-simmonds",
-        "video_id": "MFx3FYW58Ls",
-        "title": "Your Old SEO Strategy Is Outdated - ROGEO Proves It",
-        "published_date": "2026-05-06"
-    },
-    {
-        "author": "ross-simmonds",
-        "video_id": "Rnsy-aEEOgs",
-        "title": "The Rise of the Fractional CMO - How AI Is Creating a 5M Marketing Opportunity",
-        "published_date": "2026-06-05"
-    },
+{
+    "author": "cyrus-shepard",
+    "video_id": "YSvvHN17w10",
+    "title": "Why Your Number 1 Rankings Are Failing - Adsy Talks ep 10",
+    "published_date": "2026-06-09"
+},
+{
+    "author": "cyrus-shepard",
+    "video_id": "9KNHBpnVryo",
+    "title": "Google Rankings Multiply AI Citations",
+    "published_date": "2026-06-09"
+},
 ]
 
 def slugify(text):
